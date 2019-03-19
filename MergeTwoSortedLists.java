@@ -40,5 +40,6 @@ public class MergeTwoSortedLists {
             System.out.print(l.val);
             l=l.next;
         }
+
     }
 }
